@@ -1,0 +1,9 @@
+gradio
+torch
+torchvision
+transformers
+pillow
+numpy
+pandas
+scikit-learn
+faiss-cpu

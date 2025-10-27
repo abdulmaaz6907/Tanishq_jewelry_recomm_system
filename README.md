@@ -2,7 +2,7 @@
 title: Tanishq Jewelry Recommendation System
 emoji: 💍
 colorFrom: pink
-colorTo: gold
+colorTo: yellow
 sdk: gradio
 sdk_version: "4.44.0"
 app_file: app.py

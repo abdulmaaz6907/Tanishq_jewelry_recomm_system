@@ -1,0 +1,29 @@
+project work flow and pipelining:
+
+
+app.py  -->  frontend/gradio_app.py  
+  |  
+  |  
+  ├──> frontend/input_handlers.py  
+  |       |  
+  |       |  
+  |       ├──> backend/jewelry_recomm_service.py  
+  |       |      |  
+  |       |      |  
+  |       |      ├──> backend/supportingfiles/model_loader.py  
+  |       |      |      ├──> config.py  (INDEX_PATH, METADATA_PATH, DEVICE)  
+  |       |      |  
+  |       |      |  
+  |       |      ├──> backend/supportingfiles/image_processor.py  
+  |       |      |      ├──> config.py  (get_image_transform, DEVICE)  
+  |       |      |  
+  |       |      |    
+  |       |      ├──> backend/supportingfiles/recommender.py  
+  |       |             ├──> config.py  (DEFAULT_NUM_RECOMMENDATIONS)  
+  |       |  
+  |       |  
+  |       ├──> utils/formatter.py  (Formats output)  
+  | 
+  |  
+  |  
+  └──> config.py  (Standalone configuration file)  

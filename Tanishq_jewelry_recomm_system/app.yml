@@ -1,0 +1,74 @@
+title: Jewelry Recommender
+emoji: 💎
+colorFrom: purple
+colorTo: pink
+sdk: gradio
+sdk_version: 3.50.2
+app_file: updatedcode/app.py
+pinned: false
+license: mit
+duplicated_from: null
+models:
+  - efficientnet
+  - faiss
+python_version: 3.9
+datasets:
+  - None
+tags:
+  - image-similarity
+  - jewelry
+  - recommendation-system
+  - computer-vision
+
+# Gradio configuration
+gradio:
+  theme: default
+  dark_background: False
+  live: False
+  capture_session: False
+  allow_flagging: never
+  queue_concurrency_count: 1
+  max_file_size: 10
+
+# System dependencies
+dependencies:
+  -torch>=2.0.0
+  -torchvision>=0.15.0
+  -faiss-cpu>=1.7.0
+  -scikit-learn>=1.0.0
+  -numpy>=1.20.0
+  -pandas>=1.3.0
+  -pyarrow>=7.0.0
+  -matplotlib>=3.5.0
+  -Pillow>=9.0.0
+  -tqdm>=4.60.0
+  -ipywidgets>=7.7.0
+  -gdown>=4.5.0
+  -gradio>=3.0.0
+  -concurrent-log-handler>=0.9.20
+  -plotly>=5.10.0
+
+
+# Space hardware
+hardware:
+  accelerator: cpu
+  cpu: 2
+  memory: 16GB
+
+# Required files for the application
+files:
+  - app.py
+  - jewelry_index.idx
+  - jewelry_metadata.pkl
+  - README.md
+
+# Documentation
+information:
+  description: >
+    This Jewelry Recommender app uses computer vision to find similar jewelry items 
+    based on a reference image. Upload an image of jewelry, provide an image URL, 
+    or paste a base64-encoded image to get visually similar recommendations.
+    The system uses an EfficientNet model for feature extraction and FAISS for fast similarity search.
+  license: MIT
+  author: Maazuddin
+  repository: https://github.com/Maazuddin1/jewelry-recommender

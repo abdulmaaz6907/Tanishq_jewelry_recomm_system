@@ -27,8 +27,6 @@ The system analyzes jewelry images and recommends items that closely match the u
 ---
 
 ## 🌐 Live Demo
-## 🌐 Live Demo
-
 
 🔗 **Live Space:** [Click Here to Open](https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation)   
 

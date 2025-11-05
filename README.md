@@ -29,8 +29,9 @@ The system analyzes jewelry images and recommends items that closely match the u
 ## 🌐 Live Demo
 ## 🌐 Live Demo
 
-🔗 **Hugging Face Space:** **https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation**  
-🔗 **GitHub Repository:** https://github.com/abdulmaaz6907/Tanishq_jewelry_recomm_system
+
+🔗 **Live Space:** [Click Here to Open](https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation)   
+
 ---
 
 ## 🧩 Project Architecture

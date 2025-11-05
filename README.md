@@ -27,10 +27,10 @@ The system analyzes jewelry images and recommends items that closely match the u
 ---
 
 ## 🌐 Live Demo
+## 🌐 Live Demo
 
-🔗 **Hugging Face Space:** [Jewelry Recommender System](https://huggingface.co/spaces/abdulmaaz934/Tanishq_jewelry_recomm_system)  
-🔗 **GitHub Repository:** [Jewelry AI Recommender System](https://github.com/abdulmaaz6907/Tanishq_jewelry_recomm_system)
-
+🔗 **Hugging Face Space:** **https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation**  
+🔗 **GitHub Repository:** https://github.com/abdulmaaz6907/Tanishq_jewelry_recomm_system
 ---
 
 ## 🧩 Project Architecture
@@ -52,15 +52,6 @@ The system analyzes jewelry images and recommends items that closely match the u
 
 ---
 
-## 🧑‍💻 Author
-
-**Mohammed Abdul Maaz**  
-B.Tech in Artificial Intelligence & Machine Learning  
-Passionate about AI, Computer Vision, and Data-Driven Solutions.  
-
-📧 **Email:** abdulmaaz934@gmail.com  
-🌍 **LinkedIn:** [linkedin.com/in/abdulmaaz934](https://linkedin.com/in/abdulmaaz934)
-
 ---
 
 ## 🏆 Acknowledgements
@@ -69,5 +60,4 @@ Special thanks to **ProwessIQ Information Systems Pvt. Ltd.** for providing the 
 
 ---
 
-### ⭐ If you like this project, don’t forget to give it a star on GitHub!
 

@@ -26,9 +26,14 @@ The system analyzes jewelry images and recommends items that closely match the u
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-🔗 **Live Space:** [Click Here to Open](https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation)   
+<p align="center">
+  <a href="https://huggingface.co/spaces/abdulmaaz934/tanishq_jewellery_recommendation" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Launch%20Live%20Demo-blue?style=for-the-badge&logo=huggingface" alt="Live Demo Button"/>
+  </a>
+</p>
+
 
 ---
 
